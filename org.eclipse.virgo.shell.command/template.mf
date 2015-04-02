@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Virgo Admin Shell
-Bundle-SymbolicName: org.eclipse.virgo.shell.command
+Bundle-SymbolicName: net.echinopsii.3rdparty.org.eclipse.virgo.shell.command
 Bundle-Version: ${version}
 Import-Template: 
  org.eclipse.virgo.kernel.*;version="${version:[=.=.=, =.+1)}",
